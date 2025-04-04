@@ -16,6 +16,6 @@
       spec:
         containers:
         - name: order-ms
-          image: renotsuka1/orderms:latest
+          image: renotsuka1/order-ms:latest
           ports:
           - containerPort: 8080
